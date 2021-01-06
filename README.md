@@ -1,16 +1,7 @@
-# Teste1_Int-Care :computer:  :books:
-Após clonar o repositório, para baixar as dependências, basta digitar:
-
+# Teste1_Int-Care :computer: :books:
+Para baixar e rodar o código, basta digitar esse comando no repositório clonado:
 ```
-npm install
+npm install && npm run dev
 //ou
-yarn install
-
-```
-Em seguida, para rodar o código:
-
-```
-npm run dev
-//ou
-yarn dev
+yarn install && yarn dev
 ```
